@@ -5938,11 +5938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Irek\\challenge\\test\\ChallengeTest\\ChallengeTest.csproj",
+      "projectUniqueName": "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\test\\ChallengeTest\\ChallengeTest.csproj",
       "projectName": "ChallengeTest",
-      "projectPath": "C:\\Users\\Irek\\challenge\\test\\ChallengeTest\\ChallengeTest.csproj",
+      "projectPath": "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\test\\ChallengeTest\\ChallengeTest.csproj",
       "packagesPath": "C:\\Users\\Irek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Irek\\challenge\\test\\ChallengeTest\\obj\\",
+      "outputPath": "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\test\\ChallengeTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Irek\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5957,8 +5957,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Irek\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj": {
-              "projectPath": "C:\\Users\\Irek\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj"
+            "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj": {
+              "projectPath": "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj"
             }
           }
         }

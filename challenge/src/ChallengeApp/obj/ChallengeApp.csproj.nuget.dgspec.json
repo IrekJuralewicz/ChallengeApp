@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Irek\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj": {}
+    "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Irek\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj": {
+    "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Irek\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj",
+        "projectUniqueName": "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj",
         "projectName": "ChallengeApp",
-        "projectPath": "C:\\Users\\Irek\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj",
+        "projectPath": "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\src\\ChallengeApp\\ChallengeApp.csproj",
         "packagesPath": "C:\\Users\\Irek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Irek\\challenge\\src\\ChallengeApp\\obj\\",
+        "outputPath": "C:\\Users\\Irek\\Documents\\GitHub\\ChallengeApp\\challenge\\src\\ChallengeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Irek\\AppData\\Roaming\\NuGet\\NuGet.Config"
