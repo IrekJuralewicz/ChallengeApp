@@ -1,0 +1,16 @@
+C:\Users\Irek\challenge\src\ListaOcen\bin\Debug\net5.0\ListaOcen.exe
+C:\Users\Irek\challenge\src\ListaOcen\bin\Debug\net5.0\ListaOcen.deps.json
+C:\Users\Irek\challenge\src\ListaOcen\bin\Debug\net5.0\ListaOcen.runtimeconfig.json
+C:\Users\Irek\challenge\src\ListaOcen\bin\Debug\net5.0\ListaOcen.runtimeconfig.dev.json
+C:\Users\Irek\challenge\src\ListaOcen\bin\Debug\net5.0\ListaOcen.dll
+C:\Users\Irek\challenge\src\ListaOcen\bin\Debug\net5.0\ref\ListaOcen.dll
+C:\Users\Irek\challenge\src\ListaOcen\bin\Debug\net5.0\ListaOcen.pdb
+C:\Users\Irek\challenge\src\ListaOcen\obj\Debug\net5.0\ListaOcen.csproj.AssemblyReference.cache
+C:\Users\Irek\challenge\src\ListaOcen\obj\Debug\net5.0\ListaOcen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irek\challenge\src\ListaOcen\obj\Debug\net5.0\ListaOcen.AssemblyInfoInputs.cache
+C:\Users\Irek\challenge\src\ListaOcen\obj\Debug\net5.0\ListaOcen.AssemblyInfo.cs
+C:\Users\Irek\challenge\src\ListaOcen\obj\Debug\net5.0\ListaOcen.csproj.CoreCompileInputs.cache
+C:\Users\Irek\challenge\src\ListaOcen\obj\Debug\net5.0\ListaOcen.dll
+C:\Users\Irek\challenge\src\ListaOcen\obj\Debug\net5.0\ref\ListaOcen.dll
+C:\Users\Irek\challenge\src\ListaOcen\obj\Debug\net5.0\ListaOcen.pdb
+C:\Users\Irek\challenge\src\ListaOcen\obj\Debug\net5.0\ListaOcen.genruntimeconfig.cache
