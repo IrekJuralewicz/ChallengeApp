@@ -5,21 +5,26 @@ namespace ChallengeApp
 {
     public class Pracownik
     {
-        private string name;
+        //private string name;
+        
+
         private List<double> noty = new List<double>();
 
         public Pracownik(string name)
         {
-            this.name = name;
+            this.Name = name;
         }
 
-        public string Name
-        {
-            get
-            {
-                return this.name;
-            }
-        }
+        public string Name { get ;}
+            
+
+        // public string Name
+        // {
+        //     get
+        //     {
+        //         return this.name;
+        //     }
+        // }
 
         public void DodajOcenę(double ocena)
         {
@@ -40,7 +45,7 @@ namespace ChallengeApp
             }
             wynik.Srednia /= noty.Count;
 
-            Console.WriteLine($"Pracownik: {name}");
+            Console.WriteLine($"Pracownik: {Name}");
             Console.WriteLine($"Ocena najniższa is: {wynik.Najnizsza:N6}");
             Console.WriteLine($"Ocena najwyższa is: {wynik.Najwyzsza:N6}");
             Console.WriteLine($"The średnia is: {wynik.Srednia:N6}");

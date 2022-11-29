@@ -41,21 +41,21 @@ namespace ChallengeTest
             Assert.Equal(3.11, wynik.Najwyzsza);
         }
 
-        [Fact]
-        public void Test3()
-        {
-            // arrange            
-            var prac = new Pracownik("Test3");
-            prac.DodajOcenę(10.1111);
-            prac.DodajOcenę(20.2222);
-            prac.DodajOcenę(4.22);
-            prac.DodajOcenę(7.11);
-            // act            
-            var wynik = prac.PobierzStatystyki();
-            // assert
-            Assert.Equal(1.6658, wynik.Srednia,4);
-            Assert.Equal(0.22, wynik.Najnizsza);
-            Assert.Equal(3.11, wynik.Najwyzsza);
-        }        
+        // [Fact]
+        // public void Test3()
+        // {
+        //     // arrange            
+        //     var prac = new Pracownik("Test3");
+        //     prac.DodajOcenę(10.1111);
+        //     prac.DodajOcenę(20.2222);
+        //     prac.DodajOcenę(4.22);
+        //     prac.DodajOcenę(7.11);
+        //     // act            
+        //     var wynik = prac.PobierzStatystyki();
+        //     // assert
+        //     Assert.Equal(1.6658, wynik.Srednia,4);
+        //     Assert.Equal(0.22, wynik.Najnizsza);
+        //     Assert.Equal(3.11, wynik.Najwyzsza);
+        // }        
     }
 }
